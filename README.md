@@ -1,0 +1,2 @@
+# terraform_velomodules
+テスト用のVelocloud用のモジュール集
